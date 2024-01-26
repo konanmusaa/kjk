@@ -1075,7 +1075,6 @@ def passwrd():
 						pwv.append('009988')
 						pwv.append('112233445566')
 						pwv.append('1122334455')
-						pwv.append('112233')
 						pwv.append(frs+'2005')
 						pwv.append(frs+'2004')
 						pwv.append(frs+'2003')
@@ -1086,11 +1085,7 @@ def passwrd():
 						pwv.append(frs+'1998')
 						pwv.append(frs+'1997')
 						pwv.append(frs+'1996')
-						pwv.append(frs+'1995')
-						pwv.append(frs+'1994')
-						pwv.append(frs+'1993')
-						pwv.append(frs+'1992')
-						 
+						pwv.append(frs+'1995') 
 				else:
 
 					if len(frs)<3:
@@ -1118,7 +1113,6 @@ def passwrd():
 						pwv.append('009988')
 						pwv.append('112233445566')
 						pwv.append('1122334455')
-						pwv.append('112233')
 						pwv.append(frs+'2005')
 						pwv.append(frs+'2004')
 						pwv.append(frs+'2003')
@@ -1130,9 +1124,6 @@ def passwrd():
 						pwv.append(frs+'1997')
 						pwv.append(frs+'1996')
 						pwv.append(frs+'1995')
-						pwv.append(frs+'1994')
-						pwv.append(frs+'1993')
-						pwv.append(frs+'1992')	
 					
 				if 'ya' in pwpluss: 
 					for xpwd in pwnya:
